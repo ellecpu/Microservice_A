@@ -32,3 +32,8 @@ print(new_top)
 #Get Saved top score  for a user
 saved_score = get_saved_top_score(user)
 print(saved_score)
+
+
+UML Diagram:
+<img width="1559" height="1055" alt="Sequence diagram" src="https://github.com/user-attachments/assets/c6642729-07b1-4fba-a00a-9bf890a67cf4" />
+
