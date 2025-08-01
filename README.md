@@ -1,7 +1,7 @@
 # Microservice_A
 This is the Score Management Microservice implemented by me for the main program of Argent.
 
-Note: The Microservice must be kept in the same in the same directory as UserTopScore.txt and typingsessionresults.txt, if these files do not exist, they must be created first.
+Note: The Microservice must be kept in the same in the same directory as UserTopScores.txt and typingsessionresults.txt, if these files do not exist, they must be created first.
 
 **How to request data:**
 
@@ -35,5 +35,6 @@ print(saved_score)
 
 
 UML Diagram:
-<img width="1559" height="1055" alt="Sequence diagram" src="https://github.com/user-attachments/assets/c6642729-07b1-4fba-a00a-9bf890a67cf4" />
+<img width="1602" height="1063" alt="Sequence diagram (1)" src="https://github.com/user-attachments/assets/13162812-9494-403c-ab0d-fedb820380a7" />
+
 
